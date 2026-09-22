@@ -1,1 +1,2 @@
-export const contact = {enquiryEndpoint:'',eventCoordinator:'',academicCoordinator:'',email:'',phone:''};
+export const contact = {eventCoordinator:'',academicCoordinator:'',email:'',phone:''};
+
