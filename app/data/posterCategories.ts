@@ -1,0 +1,1 @@
+export const research=['Human Performance & Exercise Physiology','Sports Nutrition & Clean Sport','Biomechanics & Injury Prevention','Sports Analytics, AI & Wearables','Sports Psychology & Athlete Development','Sports Management & Marketing','Strength & Conditioning','Rehabilitation & Sports Medicine Technologies'];

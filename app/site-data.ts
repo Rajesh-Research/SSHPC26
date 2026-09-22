@@ -1,0 +1,11 @@
+import {event} from './data/event';
+import {registration} from './data/registration';
+import {contact} from './data/contact';
+import {speakers} from './data/speakers';
+export const eventConfig={...event,...registration,...contact,speakers};
+export {tracks} from './data/tracks';
+export {programme} from './data/schedule';
+export {research} from './data/posterCategories';
+export {audiences} from './data/audience';
+export {gains} from './data/gains';
+export {faqs} from './data/faq';
